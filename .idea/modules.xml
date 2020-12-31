@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faturamento/faturamento.iml" filepath="$PROJECT_DIR$/faturamento/faturamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/financeiro/financeiro.iml" filepath="$PROJECT_DIR$/financeiro/financeiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab-microservice.iml" filepath="$PROJECT_DIR$/.idea/lab-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labbase/labbase.iml" filepath="$PROJECT_DIR$/labbase/labbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logistica/logistica.iml" filepath="$PROJECT_DIR$/logistica/logistica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagamento/pagamento.iml" filepath="$PROJECT_DIR$/pagamento/pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/security.iml" filepath="$PROJECT_DIR$/security/security.iml" />
+    </modules>
+  </component>
+</project>
