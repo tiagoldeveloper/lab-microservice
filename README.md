@@ -1,6 +1,6 @@
 <h1 align="center">Micro serviço com Spring boot.</h1>
 
-<p align="center">Exemplo de micro serviço com spring cloud.</p>
+<p align="center">Exemplo de micro serviço com spring cloud netflix.</p>
 <p align="center">Cada micro serviço tem apenas uma funcionalidade simples para demostrar a funcionalidade spring cloud netflix.</p>
 
  
